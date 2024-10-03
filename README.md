@@ -6,4 +6,4 @@ Jan Hernández
 
 Dimecres 2 d'octubre de 2024
 
-#Command Cheat Sheet
+# Command Cheat Sheet
